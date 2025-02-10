@@ -10,7 +10,7 @@
 
 <p>Check out my <a href="https://www.youtube.com/">favorite website</a>!</p>
 <p>this is a picture of one of my dogs</p>    
-<img src="file:///C:/Users/jakel/Downloads/moca.jpg" alt="my dog" width="300">
+<img src="https://cdn.discordapp.com/attachments/1251709823997837383/1338324082994839652/IMG_0963.jpg?ex=67ab53ae&is=67aa022e&hm=f83ce6829d58538469e88f89d1013a062fb492e709d67814595167aa635ccdd4&" alt="my dog" width="300">
 
 </body>
 </html>
