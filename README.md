@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -5,7 +6,6 @@
     My pretty cool website
 </head>
 <body>
-    <!-- Header -->
     <h1>Welcome to My Website</h1>
 
 <p>Check out my <a href="https://www.youtube.com/">favorite website</a>!</p>
