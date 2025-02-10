@@ -14,14 +14,10 @@
 
 <h4> My overall favorite has to be Destiny 2 with a overall whopping 5,900 hours as of today total logged.</h4>
 <h3> The list of my favorite games' most relevant websites.<h3>
-<ol>
+<p> <ol>
   <li><a href="https://www.bungie.net/7/en/destiny" target="_blank">Destiny 2</a></li>
   <li><a href="https://www.xbox.com/en-US/games/store/destiny/C2JQRC2C49B0" target="_blank">Destiny 1</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Halo:_Reach" target="_blank">Halo Reach</a></li>
   <li><a href="https://www.rocketleague.com/en" target="_blank">Destiny 2</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Mario_Kart_Wii" target="_blank">Mario Kart Wii</a></li>
-</ol>
-
-
-</body>
-</html>
+</ol> </p>
