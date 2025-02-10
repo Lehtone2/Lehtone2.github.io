@@ -11,7 +11,7 @@
 
 <p>Check out my <a href="https://www.youtube.com/">favorite website</a>!</p>
 <p>this is a picture of my dog</p>    
-<img src="![moca](https://github.com/user-attachments/assets/3fb791f4-8ec1-4cf1-9e84-70611075b04b)" alt="Description of image" width="300">
+<img src="![moca](https://github.com/user-attachments/assets/3fb791f4-8ec1-4cf1-9e84-70611075b04b)" alt="my dog" width="300">
 
 </body>
 </html>
